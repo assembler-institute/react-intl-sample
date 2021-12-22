@@ -1,0 +1,21 @@
+{
+  "welcomeLabel": "Welcome to IntlApp",
+  "welcomeBackLabel": "Welcome back",
+
+  "createAccount": "Create Account",
+  "loginLabel": "Login",
+  "loginSubLabel": "Login to get started",
+  "SignUpLabel": "Sign up",
+  "SignUpSubLabel": "Sign up to get started",
+
+  "textPlaceholder": "Enter text",
+  "emailLabel": "Email",
+  "emailPlaceholder": "Enter email",
+  "passwordLabel": "Password",
+  "passwordPlaceholder": "Enter password",
+
+  "acceptLabel": "Accept",
+  "declineLabel": "Decline",
+  "confirmLabel": "Confirm",
+  "cancelLabel": "Cancel"
+}

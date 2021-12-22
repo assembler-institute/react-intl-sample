@@ -1,0 +1,21 @@
+{
+  "welcomeLabel": "Bienvenid@ a IntlApp",
+  "welcomeBackLabel": "Bienvenid@ de nuevo",
+
+  "createAccount": "Crear cuenta",
+  "loginLabel": "Iniciar Sesion",
+  "loginSubLabel": "Inicia sesion para continuar",
+  "SignUpLabel": "Registrate",
+  "SignUpSubLabel": "Registrate para empezar",
+
+  "textPlaceholder": "Introduce texto",
+  "emailLabel": "Correo electrónico",
+  "emailPlaceholder": "Introduce email",
+  "passwordLabel": "Contraseña",
+  "passwordPlaceholder": "Introduce contraseña",
+
+  "acceptLabel": "Aceptar",
+  "declineLabel": "Declinar",
+  "confirmLabel": "Confirmar",
+  "cancelLabel": "Cancelar"
+}
